@@ -26,5 +26,7 @@ The goal was to create a structured, accessible, and search-engine-friendly webs
 2. Open `index.html` in any modern web browser.
 3. Use the navigation links in the header to move between pages.
 
+Website: https://roadmap.sh/projects/portfolio-website
+
 ## 📝 Author
 **Crenz Arevalo** Aspiring Frontend Developer | Computer Engineering
